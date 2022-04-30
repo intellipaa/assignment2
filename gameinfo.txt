@@ -1,2 +1,4 @@
 this is first commit
 this is feature f1
+=======
+this is feature f2
